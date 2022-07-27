@@ -1,0 +1,26 @@
+.image-bg{
+    filter:brightness(45%);
+    height:600px;
+}
+
+.carousel-caption{
+    bottom:120px;
+    padding-left:100px;
+    padding-right:100px;
+}
+.carousel-h5{
+    font-size:70px;
+    top:2rem;
+
+}
+.carousel-p{
+    font-size:18px;
+    top:2rem;
+}
+btn .btn-1{
+    background-color:red;
+    color:white;
+    border-radius:5px;
+    font-size:1rem;
+
+}
