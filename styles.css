@@ -1,6 +1,6 @@
 *{
     font-family: 'Heebo', sans-serif;
-   font-family: 'Lobster', cursive;
+   //font-family: 'Lobster', cursive;
 }
 
 .image-bg{
@@ -14,7 +14,7 @@
     padding-right:100px;
 }
 .carousel-h5{
-    font-size:70px;
+    font-size:50px;
     top:2rem;
 
 }
@@ -28,4 +28,17 @@ btn .btn-1{
     border-radius:5px;
     font-size:1rem;
 
-}
+}//
+  
+        .modal-header {
+            background: #F7941E;
+            color: #fff;
+        }
+        
+        .required:after {
+            content: "*";
+            color: red;
+        }
+    
+
+
