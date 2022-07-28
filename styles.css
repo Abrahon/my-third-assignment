@@ -1,6 +1,6 @@
 *{
     font-family: 'Heebo', sans-serif;
-   //font-family: 'Lobster', cursive;
+   font-family: 'Lobster', cursive;
 }
 
 .image-bg{
@@ -28,14 +28,14 @@ btn .btn-1{
     border-radius:5px;
     font-size:1rem;
 
-}//
+}
   
-        .modal-header {
+ .modal-header {
             background: #F7941E;
             color: #fff;
         }
         
-        .required:after {
+.required:after {
             content: "*";
             color: red;
         }
