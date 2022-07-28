@@ -1,10 +1,15 @@
+*{
+    font-family: 'Heebo', sans-serif;
+   font-family: 'Lobster', cursive;
+}
+
 .image-bg{
     filter:brightness(45%);
     height:600px;
 }
 
 .carousel-caption{
-    bottom:120px;
+    bottom:80px;
     padding-left:100px;
     padding-right:100px;
 }
